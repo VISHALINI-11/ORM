@@ -31,4 +31,4 @@ Insert the following five food orders into the database.
 |      5 | Sanjay        | French Fries |        2 |       160 | No           |
 
 ## Output:
-![alt text](output.png)
+![alt text](output1.png)
